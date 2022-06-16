@@ -1,6 +1,7 @@
-<h1>Hai👋</h1>
 
-- 🔭 I’m currently working on EDII
-- 🌱 I’m currently learning VueJs
-- 👯 I’m looking to collaborate on VueJs,Laravel
+## 🚀 About Me
+Saya suka komedi, saya suka teknologi
 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://yayancloud.github.io/)
